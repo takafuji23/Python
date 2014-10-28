@@ -62,4 +62,4 @@ L = LinkedList()
 L.insert(3, 2)
 L.insert(2, 3)
 print L.index(3)
-
+print "aaa"
